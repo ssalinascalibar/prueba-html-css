@@ -1,0 +1,60 @@
+body{
+	padding-top: 60px;
+}
+
+.jumbotron{
+	background-image: url("imagenes/fondo.jpg");
+	color: orange;
+	text-align: center;
+}
+
+.thumbnail{
+	text-align: center;
+	padding-top: 20px;
+}
+
+footer{
+	background-color: #B2C0F9;
+	margin-top: 80px;
+	padding-top: 30px;
+}
+
+.nosotros{
+	background-image: url(imagenes/fondo.jpg);
+	margin-top: 30px;
+}
+
+h5{
+	font-weight: bold;
+	color: orange;
+}
+
+h4{
+	color: orange;
+}
+
+.h4-noticia{
+	padding-top: 20px;
+}
+
+.main-noticias{
+	margin-top: 50px;
+}
+
+.imagen-not{
+	margin-top: 80px;
+
+}
+
+h2{
+	color: orange;
+
+}
+
+hr{
+	margin-top: 80px;
+	height: 1px;
+	background-color: grey;
+}
+
+
