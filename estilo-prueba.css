@@ -2,11 +2,7 @@ body{
 	padding-top: 60px;
 }
 
-.jumbotron{
-	background-image: url("imagenes/fondo.jpg");
-	color: orange;
-	text-align: center;
-}
+
 
 .thumbnail{
 	text-align: center;
@@ -14,7 +10,7 @@ body{
 }
 
 footer{
-	background-color: #B2C0F9;
+	background-color: #E6E6E6;
 	margin-top: 80px;
 	padding-top: 30px;
 }
@@ -30,21 +26,29 @@ h5{
 }
 
 h4{
-	color: orange;
+	color: #3879B8;
+}
+
+h3{
+	text-align: left;
+}
+
+.page-header{
+	color: #3879B8;
 }
 
 .h4-noticia{
 	padding-top: 20px;
 }
 
-.main-noticias{
-	margin-top: 50px;
+
+
+.imagen-noticias{
+	margin-top: 45px;
+	padding-bottom: 50px;
 }
 
-.imagen-not{
-	margin-top: 80px;
 
-}
 
 h2{
 	color: orange;
@@ -56,5 +60,51 @@ hr{
 	height: 1px;
 	background-color: grey;
 }
+
+.blog{
+	margin-top: 10px;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #EAEAEA;
+}
+
+.backgroundimg{
+	background-image: url(imagenes/jumbo-nino.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 70vh;
+	margin-top: -8px;
+
+
+}
+
+.h1-header{
+	margin-top: 350px;
+	color: white;
+	text-align: center;
+}
+
+.p-header{
+	color: white;
+	text-align: center;
+	font-size: 15px;
+}
+
+.cont-medio{
+	margin-top: 50px;
+}
+
+.sociales{
+	color: #3879B8;
+	font-size: 50px;
+	margin-top: 20px;
+}
+
+.glyphicon{
+	font-size: 25px;
+}
+
+
 
 
